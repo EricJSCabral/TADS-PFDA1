@@ -3,6 +3,11 @@
 #include <conio.h>
 #include <locale.h>  //n
 
+void funcaoteste ()
+{
+print("Olá mundo");
+}
+
 int main ()
 {
 		setlocale(LC_ALL, "portuguese"); 
